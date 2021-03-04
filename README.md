@@ -1,2 +1,2 @@
-# $hubhangi
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+#SHUBHANGI - Welcome
+[![Visits Badge](https://badges.pufler.dev/visits/ShubhangiLokhande123/ShubhangiLokhande123)](https://github.com/ShubhangiLokhande123)
