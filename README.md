@@ -10,8 +10,3 @@
 > Likes searching about latest researches and technologies.
 
 
-[![](https://img.shields.io/badge/LinkedIn-shuhbangilokhande43985-blue)](https://www.linkedin.com/in/shuhbangilokhande43985)
-[![](https://img.shields.io/badge/Gmail-shubhangilokhande123%40gmail.com-red)](mailto:shubhangilokhande123@gmail.com)
-
-
-
