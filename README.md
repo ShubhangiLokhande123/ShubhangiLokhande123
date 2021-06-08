@@ -2,17 +2,13 @@
 
 ### Hi there 👋 Welcome
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
 
 ````bash
 > help --info
 > A normal and ordinary girl who recently ventured out into Python. 
-> trying out ML, CV & NLP to see what all the fuss is about and he might actually ❤ it. Likes searching about latest researches and technologies.
+> Trying out ML, CV & NLP to see what all the fuss is about and he might actually ❤ it.
+> Likes searching about latest researches and technologies.
 
-````
-<!--
-**RajSinha77/RajSinha77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -25,7 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![](https://img.shields.io/badge/LinkedIn-shuhbangilokhande43985-blue)](https://www.linkedin.com/in/shuhbangilokhande43985-bit/)
+[![](https://img.shields.io/badge/LinkedIn-shuhbangilokhande43985-blue)](https://www.linkedin.com/in/shuhbangilokhande43985)
 [![](https://img.shields.io/badge/Gmail-shubhangilokhande123%40gmail.com-red)](mailto:shubhangilokhande123@gmail.com)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -53,4 +49,4 @@ shubh = {
 ```    -->
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
