@@ -6,7 +6,7 @@
 ````bash
 > help --info
 > A normal and ordinary girl who recently ventured out into Python. 
-> Trying out ML, CV & NLP to see what all the fuss is about and he might actually ❤ it.
+> Trying out ML, CV & NLP to see what all the fuss is about and she might actually ❤ it.
 > Likes searching about latest researches and technologies.
 
 
