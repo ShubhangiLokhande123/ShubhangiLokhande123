@@ -6,7 +6,7 @@
 <h3 align="center">Passionate Data Analyst & Aspiring Data Scientist</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-- 🔭 Learn **Python Libraries: pandas, numpy, matplotlib, seaborn, plotly, BeautifulSoup, DateTime.** from: [My Python Libraries Tutorials]()
+- 🔭 Learn **Python Libraries: pandas, numpy, matplotlib, seaborn, plotly, BeautifulSoup, DateTime.** from: [My Python Libraries Tutorials](https://github.com/ShubhangiLokhande123/Python_Vizualizations_for_Data_Analysis/tree/main)
 
 - 📝 Take a look at my **Personal** Website: [www.shubhangilokhande.wixsite.com](https://shubhangilokhande229.wixsite.com/aboutme)
 
