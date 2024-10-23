@@ -1,3 +1,4 @@
+<img src="" width="840" height="200" allow="autoplay">
 [![Visits Badge](https://badges.pufler.dev/visits/ShubhangiLokhande123/ShubhangiLokhande123)](https://github.com/ShubhangiLokhande123)
 
 ### Hi there 👋 Welcome
