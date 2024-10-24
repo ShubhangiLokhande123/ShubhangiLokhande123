@@ -14,6 +14,9 @@
 
 - 👨‍💻 My **Tableau** Projects are at: [Shubhangi Lokhande - Tableau Public]()
 
+- ✍ See my **Blogs on Data Analysis** on Medium: [Data Analysis Blogs](https://medium.com/@shubhangilokhande)
+
+
 - 📫 Email me at: **shubhangilokhande229@gmail.com**
 
 - ⚡ Fun Fact: **The most life-changing book for me is Bhagwad Gita.**
