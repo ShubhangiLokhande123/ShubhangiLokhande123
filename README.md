@@ -10,7 +10,7 @@
 
 - 📝 Take a look at my **Personal** Website: [www.shubhangilokhande.wixsite.com](https://shubhangilokhande229.wixsite.com/aboutme)
 
-- 🌱 My **Portfolio Projects** are in: [Data Analyst Projects Repo.](https://github.com/ShubhangiLokhande/Portfolio-Projects)
+- 🌱 My **Portfolio Projects** are in: [Data Analyst Projects Repo.](https://github.com/ShubhangiLokhande123?tab=repositories)
 
 - 👨‍💻 My **Tableau** Projects are at: [Shubhangi Lokhande - Tableau Public]()
 
