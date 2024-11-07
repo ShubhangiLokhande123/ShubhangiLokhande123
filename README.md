@@ -12,7 +12,7 @@
 
 - 🌱 My **Portfolio Projects** are in: [Data Analyst Portfolio Projects Repo.](https://github.com/ShubhangiLokhande123/Data_Analyst_Portfolio_Repo/tree/main)
 
-- 👨‍💻 My **Tableau** Projects are at: [Shubhangi Lokhande - Tableau Public]()
+- 👨‍💻 My **Tableau** Projects are at: [Shubhangi Lokhande - Tableau Public](https://public.tableau.com/app/profile/shubhangi.lokhande8740/vizzes)
 
 - ✍ See my **Blogs about Data Analysis** on Medium: [Data Analysis Blogs](https://medium.com/@shubhangilokhande)
 
