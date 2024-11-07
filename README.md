@@ -8,7 +8,7 @@
 
 - 🔭 Learn **Python Libraries: pandas, numpy, matplotlib, seaborn, plotly, BeautifulSoup, DateTime.** from: [My Python Libraries Tutorials](https://github.com/ShubhangiLokhande123/Python_Vizualizations_for_Data_Analysis/tree/main)
 
-- 📝 Take a look at my **Personal** Website: [www.shubhangilokhande.wixsite.com](https://shubhangilokhande229.wixsite.com/aboutme)
+- 📝 Take a look at my **Personal** Website: [www.shubhangilokhande2.wixsite.com](https://shubhangilokhande2.wixsite.com/shubhangilokhande-1)
 
 - 🌱 My **Portfolio Projects** are in: [Data Analyst Portfolio Projects Repo.](https://github.com/ShubhangiLokhande123/Data_Analyst_Portfolio_Repo/tree/main)
 
