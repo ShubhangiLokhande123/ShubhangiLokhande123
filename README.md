@@ -1,6 +1,3 @@
-[![Visits Badge](https://badges.pufler.dev/visits/ShubhangiLokhande123/ShubhangiLokhande123)](https://github.com/ShubhangiLokhande123)
-
-<img src="https://github.com/ShubhangiLokhande123/ShubhangiLokhande123/blob/main/Github%20Banner.png" width="1050" height="200" allow="autoplay">
 
 <h1 align="center">Hi 👋, I'm Shubhangi Lokhande.</h1>
 <h3 align="center">Passionate Data Analyst & Aspiring Data Scientist</h3>
