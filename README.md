@@ -1,17 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm Shubhangi Lokhande.</h1>
-<h3 align="center">Passionate Data Analyst & Aspiring Data Scientist</h3>
+<h3 align="center">Passionate Data Scientist</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 - 🔭 Learn **Python Libraries: pandas, numpy, matplotlib, seaborn, plotly, BeautifulSoup, DateTime.** from: [My Python Libraries Tutorials](https://github.com/ShubhangiLokhande123/Python_Vizualizations_for_Data_Analysis/tree/main)
-
-- 📝 Take a look at my **Personal** Website: [www.shubhangilokhande2.wixsite.com](https://shubhangilokhande2.wixsite.com/shubhangilokhande-1)
 
 - 🌱 My **Portfolio Projects** are in: [Data Analyst Portfolio Projects Repo.](https://github.com/ShubhangiLokhande123/Data_Analyst_Portfolio_Repo/tree/main)
 
 - 👨‍💻 My **Tableau** Projects are at: [Shubhangi Lokhande - Tableau Public](https://public.tableau.com/app/profile/shubhangi.lokhande8740/vizzes)
 
-- ✍ See my **Blogs about Data Analysis** on Medium: [Data Analysis Blogs](https://medium.com/@shubhangilokhande)
+- ✍ See my **Blogs** on Medium: [Blogs](https://medium.com/@shubhangilokhande)
 
 
 - 📫 Email me at: **shubhangilokhande229@gmail.com**
