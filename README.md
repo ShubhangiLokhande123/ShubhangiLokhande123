@@ -5,7 +5,7 @@
 
 - 🔭 Learn **Python Libraries: pandas, numpy, matplotlib, seaborn, plotly, BeautifulSoup, DateTime.** from: [My Python Libraries Tutorials](https://github.com/ShubhangiLokhande123/Python_Vizualizations_for_Data_Analysis/tree/main)
 
-- 🌱 My **Portfolio Projects** are in: [Data Analyst Portfolio Projects Repo.](https://github.com/ShubhangiLokhande123/Data_Analyst_Portfolio_Repo/tree/main)
+- 🌱 My **Portfolio Projects** are in: [Portfolio Projects Repo.](https://github.com/ShubhangiLokhande123/Data_Analyst_Portfolio_Repo/tree/main)
 
 - 👨‍💻 My **Tableau** Projects are at: [Shubhangi Lokhande - Tableau Public](https://public.tableau.com/app/profile/shubhangi.lokhande8740/vizzes)
 
