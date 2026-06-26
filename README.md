@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Shubhangi Lokhande.</h1>
-<h3 align="center">Passionate Data Scientist</h3>
+<h3 align="center">AI/ML Engineer</h3>
 
 - ✍ See my **Blogs** on Medium: [Blogs](https://medium.com/@shubhangilokhande)
 - 📫 Email me at: **shubhangilokhande229@gmail.com**
