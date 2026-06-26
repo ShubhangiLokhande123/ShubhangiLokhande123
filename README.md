@@ -31,7 +31,6 @@ class ShubhangiLokhande:
     backend    = ["FastAPI", "MCP Servers", "REST APIs"]
     deploy     = ["HuggingFace Spaces", "Render", "GitHub Pages"]
     
-    currently_building = "AI agents for clinical triage & patient monitoring 🏥"
 ```
 
 ---
@@ -167,21 +166,6 @@ class ShubhangiLokhande:
 
 </tr>
 </table>
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=ShubhangiLokhande123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=EC4899&text_color=E2E8F0&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhangiLokhande123&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=EC4899&currStreakLabel=E2E8F0" width="49%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhangiLokhande123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E2E8F0&langs_count=8" width="40%" />
-
 </div>
 
 ---
