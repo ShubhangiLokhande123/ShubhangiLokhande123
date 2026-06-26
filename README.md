@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:A855F7,100:EC4899&height=220&section=header&text=Shubhangi%20Lokhande&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Healthcare%20AI%20%E2%80%A2%20Multi-Agent%20Systems&descSize=18&descAlignY=55&descColor=E2E8F0&animation=fadeIn" width="100%"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=Building+AI+agents+that+save+lives+%F0%9F%8F%A5;RAG+%C2%B7+LLM+Agents+%C2%B7+Medical+Imaging+%C2%B7+MCP+Servers" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=RAG+%C2%B7+LLM+Agents+%C2%B7+Medical+Imaging+%C2%B7+MCP+Servers" alt="Typing SVG" /></a>
 
 <br/>
 
